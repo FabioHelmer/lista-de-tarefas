@@ -1,5 +1,5 @@
 # Projeto List de Tarefas
-![page](/img/page.jpeg)
+![page](/img/page.png)
 
 # Getting Started with Create React App
 
